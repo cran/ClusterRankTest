@@ -1,0 +1,9 @@
+0cc99a8a996b3a64287c9855c26b790e *DESCRIPTION
+765df98f87900916745a3a2d9cf3c8d2 *NAMESPACE
+8bbde65cf9c917be55830bbc3907fcec *R/clus.rank.sum.R
+10c33c111ba7bc819d63ff51f419ebff *R/print.Cluster.Test.R
+61028845a9a637385db5e49b9c0dfb7b *data/dataset.rda
+e4e5d67f0d8e12ceced3f721ea9171a7 *man/ClusterRankTest-package.Rd
+81718c94bd145a80e32995fdd4434b50 *man/clus.rank.sum.Rd
+509d27702548901e01f1eaa928fe6b6e *man/dataset.Rd
+a1397daa1c23807904903b57ed99fea2 *man/print.Cluster.Test.Rd

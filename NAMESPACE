@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+#export(Cluster.Test)
+
+import(graphics, stats, utils)
+
+S3method(print, Cluster.Test)
